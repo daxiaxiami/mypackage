@@ -1,0 +1,17 @@
+{
+  "name": "somepackage",
+  "version": "1.0.0",
+  "description": "just for test package upload",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "simon",
+  "license": "ISC"
+}
